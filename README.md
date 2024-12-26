@@ -21,7 +21,10 @@
 Исходный файл: [dst-3.0_16_1_hh_database.csv](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)  
 
 ### Этапы работы над проектом
-
+1. Исследование структуры данных  
+2. Преобразование данных  
+3. Исследование зависимостей в данных  
+4. Очистка данных  
 [к оглавлению](https://github.com/vokhmianin-da/Project1_HH_analysis/tree/master/README.md#Оглавление)
 
 ### Результаты
