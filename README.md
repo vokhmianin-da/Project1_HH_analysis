@@ -4,8 +4,8 @@
 [2. Какой кейс решаем?](https://github.com/vokhmianin-da/Project1_HH_analysis/tree/master/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/vokhmianin-da/Project1_HH_analysis/tree/master/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/vokhmianin-da/Project1_HH_analysis/tree/master/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/vokhmianin-da/Project1_HH_analysis/master/tree/README.md#Результат)    
-[6. Выводы](https://github.com/vokhmianin-da/Project1_HH_analysis/master/tree/README.md#Выводы)  
+[5. Результат](https://github.com/vokhmianin-da/Project1_HH_analysis/tree/master/README.md#Результаты)    
+[6. Выводы](https://github.com/vokhmianin-da/Project1_HH_analysis/tree/master/README.md#Выводы)  
 
 ### Описание проекта    
 Анализ резюме на hh.ru  
